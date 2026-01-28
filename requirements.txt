@@ -1,0 +1,25 @@
+# ---- Core (LangChain 1.x) ----
+langchain==1.2.7
+langchain-core==1.2.7
+langchain-community==0.4.1
+
+# ---- Vector DB: Chroma (new gen) ----
+chromadb==1.4.1
+langchain-chroma==1.1.0
+
+# ---- Gemini (new SDK) ----
+langchain-google-genai==4.2.0
+google-genai==1.60.0
+
+# ---- RAG ----
+RAGatouille==0.0.9.post2
+
+# ---- Cohere ----
+cohere==4.57.0
+
+# ---- Your utilities ----
+langchainhub==0.1.16
+beautifulsoup4==4.13.0
+youtube-transcript-api==1.1.1
+pytube==15.0.0
+tiktoken==0.8.0
